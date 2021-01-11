@@ -59,7 +59,7 @@ html {
 }
 /* ****** header start ****** */
 .header-content{
-    background-image: url("../assets/images/baner.jpg");
+    background-image: url("../assets/images/banner.jpg");
 }
 .header__title{
     font-weight: normal;
